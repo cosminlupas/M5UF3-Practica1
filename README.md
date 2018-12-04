@@ -16,3 +16,6 @@
 ### 8. En una empresa, per a cadascun dels seus empleats, es guarden les dades dels seus fills. Representa aquesta relació fent les suposicions que creguis convenients
 
 ### 9. Es desitja dissenyar una BD per a una Universitat que contingui informació sobre carreres i assignatures que es poden estudiar. A més s'inclourà la informació dels alumnes matriculats en les corresponents assignatures i les qualificacions que obtenen en les assignatures en les quals estan matriculats. Nota: suposar que una assignatura solament pot pertànyer a una carrera.
+
+### 10. Exercici: calcula la cardinalitat de la següent relació ternària
+
