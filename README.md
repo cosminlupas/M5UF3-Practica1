@@ -25,7 +25,7 @@
 ### 1. En una acadèmia els professors fan classe als alumnes matriculats de manera que tot professor fa classe almenys a un alumne i tot alumne rep classe d'un únic professor
 ![](captures2/1.png)
 ### 2. Els professors d'un centre poden ser o no tutors d'un alumne, en qualsevol cas els alumnes solament podran tenir un únic tutor
-![](Captures/2.png)
+![](captures2/2.png)
 ### 3. En un comerç, un client compra diversos productes, i un producte pot ser comprat per diversos clients
 ![](Captures/3.png)
 ### 4. Representa la relació entre Persones i els seus pares
