@@ -27,7 +27,7 @@
 ### 2. Els professors d'un centre poden ser o no tutors d'un alumne, en qualsevol cas els alumnes solament podran tenir un únic tutor
 ![](captures2/2.png)
 ### 3. En un comerç, un client compra diversos productes, i un producte pot ser comprat per diversos clients
-![](Captures/3.png)
+![](captures2/3.png)
 ### 4. Representa la relació entre Persones i els seus pares
 ![](Captures/4.png)
 ### 5. En una carrera de relleus, representar la relació donar el relleu entre atletes(per calcular les cardinalidades màxima i mínima hauràs de tenir en compte si es tracta del primer, l'últim o el 2º o 3º)
