@@ -41,4 +41,4 @@
 ### 9. Es desitja dissenyar una BD per a una Universitat que contingui informació sobre carreres i assignatures que es poden estudiar. A més s'inclourà la informació dels alumnes matriculats en les corresponents assignatures i les qualificacions que obtenen en les assignatures en les quals estan matriculats. Nota: suposar que una assignatura solament pot pertànyer a una carrera.
 ![](captures2/9.png)
 ### 10. Exercici: calcula la cardinalitat de la següent relació ternària
-![](Captures/10.png)
+![](captures2/10.png)
