@@ -29,7 +29,7 @@
 ### 3. En un comerç, un client compra diversos productes, i un producte pot ser comprat per diversos clients
 ![](captures2/3.png)
 ### 4. Representa la relació entre Persones i els seus pares
-![](Captures/4.png)
+![](captures2/4.png)
 ### 5. En una carrera de relleus, representar la relació donar el relleu entre atletes(per calcular les cardinalidades màxima i mínima hauràs de tenir en compte si es tracta del primer, l'últim o el 2º o 3º)
 ![](Captures/5.png)
 ### 6. Una empresa està composta per diversos departaments dels quals es desitja emmagatzemar la seva nº, nom i localitat. Els empleats han d'estar assignats a un departament i es guardaran les seves dades nºemprat, cognom, salari.A més, cada empleat té un cap (Nota: s'ha suposat que un departament pot no tenir empleats)
