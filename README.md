@@ -37,7 +37,7 @@
 ### 7. Es desitja construir una bd per mantenir informació sobre els equips i partits de la lliga.  Un equip té un cert nº de jugadors (Aneu_jugador, dades personals) i no tots participen en cada partit. Volem registrar a més per cada partit, quins jugadors juguen, la data i l'hora del partit, resultats de les trobades i les posicions on juguen.
 ![](captures2/7.png)
 ### 8. En una empresa, per a cadascun dels seus empleats, es guarden les dades dels seus fills. Representa aquesta relació fent les suposicions que creguis convenients
-![](Captures/8.png)
+![](captures2/8.png)
 ### 9. Es desitja dissenyar una BD per a una Universitat que contingui informació sobre carreres i assignatures que es poden estudiar. A més s'inclourà la informació dels alumnes matriculats en les corresponents assignatures i les qualificacions que obtenen en les assignatures en les quals estan matriculats. Nota: suposar que una assignatura solament pot pertànyer a una carrera.
 ![](Captures/9.png)
 ### 10. Exercici: calcula la cardinalitat de la següent relació ternària
