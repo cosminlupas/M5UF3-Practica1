@@ -19,3 +19,5 @@
 ![](Captures/9.png)
 ### 10. Exercici: calcula la cardinalitat de la següent relació ternària
 ![](Captures/10.png)
+
+# 2 Representar les relacions anteriors amb Visual Paradigm 
