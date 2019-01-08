@@ -31,7 +31,7 @@
 ### 4. Representa la relació entre Persones i els seus pares
 ![](captures2/4.png)
 ### 5. En una carrera de relleus, representar la relació donar el relleu entre atletes(per calcular les cardinalidades màxima i mínima hauràs de tenir en compte si es tracta del primer, l'últim o el 2º o 3º)
-![](Captures/5.png)
+![](captures2/5.png)
 ### 6. Una empresa està composta per diversos departaments dels quals es desitja emmagatzemar la seva nº, nom i localitat. Els empleats han d'estar assignats a un departament i es guardaran les seves dades nºemprat, cognom, salari.A més, cada empleat té un cap (Nota: s'ha suposat que un departament pot no tenir empleats)
 ![](Captures/6.png)
 ### 7. Es desitja construir una bd per mantenir informació sobre els equips i partits de la lliga.  Un equip té un cert nº de jugadors (Aneu_jugador, dades personals) i no tots participen en cada partit. Volem registrar a més per cada partit, quins jugadors juguen, la data i l'hora del partit, resultats de les trobades i les posicions on juguen.
