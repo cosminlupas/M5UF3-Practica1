@@ -42,3 +42,25 @@
 ![](captures2/9.png)
 ### 10. Exercici: calcula la cardinalitat de la següent relació ternària
 ![](captures2/10.png)
+
+# 2 Representar les relacions anteriors amb Papyrus
+### 1
+![](captures3/1.png)
+### 2
+![](captures3/2.png)
+### 3
+![](captures3/3.png)
+### 4
+![](captures3/4.png)
+### 5
+![](captures3/5.png)
+### 6
+![](captures3/6.png)
+### 7
+![](captures3/7.png)
+### 8
+![](captures3/8.png)
+### 9
+![](captures3/9.png)
+### 10
+![](captures3/10.png)
