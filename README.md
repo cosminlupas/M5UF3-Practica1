@@ -45,22 +45,22 @@
 
 # 2 Representar les relacions anteriors amb Papyrus
 ### 1
-![](captures3/1.png)
+![](captures3/1.PNG)
 ### 2
-![](captures3/2.png)
+![](captures3/2.PNG)
 ### 3
-![](captures3/3.png)
+![](captures3/3.PNG)
 ### 4
-![](captures3/4.png)
+![](captures3/4.PNG)
 ### 5
-![](captures3/5.png)
+![](captures3/5.PNG)
 ### 6
-![](captures3/6.png)
+![](captures3/6.PNG)
 ### 7
-![](captures3/7.png)
+![](captures3/7.PNG)
 ### 8
-![](captures3/8.png)
+![](captures3/8.PNG)
 ### 9
-![](captures3/9.png)
+![](captures3/9.PNG)
 ### 10
-![](captures3/10.png)
+![](captures3/10.PNG)
